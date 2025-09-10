@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on AI agents in supply chain mangement<br>👯 I’m looking to collaborate on supply chain projects<br>🤝 I’m looking for help with supply chain analytics <br>💬 Ask me about supply chain management
+👋 I’m Khang Nguyen, a fresh graduate in Supply Chain Management<br>
+🔭 I’m currently working on AI agents and analytics in supply chain management<br>
+👯 I’m looking to collaborate on data-driven supply chain projects<br>
+🤝 I’m looking for help with advanced supply chain analytics & forecasting<br>
+💬 Ask me about supply chain management, data analysis (Python, SQL, Power BI), and AI automation<br>
+🌱 I’m currently learning more about time series forecasting, machine learning, and workflow automation<br>
+🚀 My long-term goal: modernize my family’s container-leasing business with data-driven strategies
+
 
 
 ## 🌐 Socials:
