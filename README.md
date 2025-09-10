@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Khang from Vietnam :flag_vietnam:<br><br>- 🔭 I’m working as supply chain analyst <br>- 📚 I'm currently learning application of AI agents in supply chain management<br>- ⚡ In my free time I watch anime, go to the gym and play guitar</p>
 
 ###
 
