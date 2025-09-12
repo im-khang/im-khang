@@ -5,7 +5,6 @@
 🤝 I’m looking for help with advanced supply chain analytics & forecasting<br>
 💬 Ask me about supply chain management, data analysis (Python, SQL, Power BI), and AI automation<br>
 🌱 I’m currently learning more about time series forecasting, machine learning, and workflow automation<br>
-🚀 My long-term goal: modernize my family’s container-leasing business with data-driven strategies
 
 
 
